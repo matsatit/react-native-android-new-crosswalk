@@ -6,6 +6,10 @@
         "postinstall": "node get_library.js",
         "lint": "eslint ."
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/matsatit/react-native-android-new-crosswalk.git"
+    },
     "keywords": [
         "react",
         "native",
