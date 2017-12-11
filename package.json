@@ -24,13 +24,13 @@
     "bugs": {
         "url": "http://gitlab.dev.nongfenqi.com/Tristram/react-native-webview-crosswalk/issues"
     },
-    "homepage": "http://gitlab.dev.nongfenqi.com/Tristram/react-native-webview-crosswalk/",
+    "homepage": "https://github.com/matsatit/react-native-android-new-crosswalk",
     "peerDependencies": {
         "react": ">=15.3.0",
         "react-native": ">=0.44.3"
     },
     "dependencies": {
-        "node-wget": "0.4.2"
+        "node-wget": "^0.4.2"
     },
     "devDependencies": {
         "babel-eslint": "6.1.2",
