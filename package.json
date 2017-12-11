@@ -27,7 +27,7 @@
     "homepage": "https://github.com/matsatit/react-native-android-new-crosswalk",
     "peerDependencies": {
         "react": ">=15.3.0",
-        "react-native": ">=0.44.3"
+        "react-native": ">=0.32.0"
     },
     "dependencies": {
         "node-wget": "^0.4.2"
