@@ -18,6 +18,7 @@ function prepareLibrary (filePath) {
     } catch (e) {
         console.log('No previous file');
     }
+    console.log('prepareLibrary file...',filePath);
     fs.renameSync(filePath, './libs/' + filePath);
     console.log('Library baked');
 }
