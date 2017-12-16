@@ -1,9 +1,9 @@
 # react-native-webview-crosswalk
 Crosswalk's WebView for React Native on Android.
 
-[![npm version](http://img.shields.io/npm/v/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-newcrosswalk "View this project on npm")
-[![npm downloads](http://img.shields.io/npm/dm/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-newcrosswalk "View this project on npm")
-[![npm licence](http://img.shields.io/npm/l/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-newcrosswalk "View this project on npm")
+[![npm version](http://img.shields.io/npm/v/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-new-crosswalk "View this project on npm")
+[![npm downloads](http://img.shields.io/npm/dm/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-new-crosswalk "View this project on npm")
+[![npm licence](http://img.shields.io/npm/l/react-native-webview-crosswalk.svg?style=flat-square)](react-native-android-new-crosswalk "View this project on npm")
 
 ### Installation
 
