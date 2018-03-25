@@ -12,7 +12,7 @@ Crosswalk's WebView for React Native on Android.
 ```shell
 npm install react-native-android-new-crosswalk --save
 mkdir android/app/libs
-cp node_modules/react-native-android-new-crosswalk/xwalk_core_library-22.52.561.4.aar android/app/libs/
+cp node_modules/react-native-android-new-crosswalk/xwalk_core_library-23.53.589.4-arm.aar android/app/libs/
 ```
 
 ### Include module in your Android project
@@ -49,7 +49,7 @@ allprojects {
 ...
 dependencies {
   ...
-  compile (name: "xwalk_core_library-22.52.561.4", ext: "aar")     // <--- add this line
+  compile (name: "xwalk_core_library-23.53.589.4-arm", ext: "aar")     // <--- add this line
   compile project(':CrosswalkWebView')                             // <--- add this line
 }
 ```
